@@ -17,7 +17,7 @@ Author URI : http://www.markups.io/
 .mu-hero-left .mu-primary-btn:focus,
 .mu-single-counter i,
 .counter-value {
-	color: #ff871c;
+	color: magenta;
 }
 
 .mu-send-msg-btn:hover,
@@ -46,7 +46,7 @@ Author URI : http://www.markups.io/
 .mu-author-social a,
 .mu-pricing-content .mu-popular-price-tag,
 #mu-video-review:before  {
-	background-color: #ff871c;
+	background-color: magenta;
 }
 
 .mu-contact-form .form-control:focus,
